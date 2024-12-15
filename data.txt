@@ -1,0 +1,6 @@
+g@gmail.com,123,100
+t@gmail.com,234,180
+tr@gmail.com,123,2700
+f@gmail.com,123,10990
+r@gmail.com,123,0
+h@gmail.com,123,0
